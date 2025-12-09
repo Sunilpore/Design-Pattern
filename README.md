@@ -22,12 +22,12 @@ Clarity: Code built with recognizable patterns is generally easier for new devel
 
 
 🛠️ **The Three Main Categories (GoF Patterns)**
-Design patterns are typically grouped into three categories based on what they govern:
+<br>Design patterns are typically grouped into three categories based on what they govern:
 
-1.Creational Design Pattern
-
-2. Structural Design Pattern
-   - Decorator Design Pattern
+1. Creational Design Pattern
    
+2. Structural Design Pattern
+ - Decorator Design Pattern
+        
 3. Observer Design Pattern
 
