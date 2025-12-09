@@ -2,11 +2,11 @@
 # Design-Pattern
 
 🎨 **Understanding Design Patterns in Software**
-A Design Pattern is a proven, reusable solution to a commonly occurring problem in software design. They aren't finished code, but rather templates and best practices that help structure your codebase for maximum flexibility and maintainability.
+<br>A Design Pattern is a proven, reusable solution to a commonly occurring problem in software design. They aren't finished code, but rather templates and best practices that help structure your codebase for maximum flexibility and maintainability.
 
 
 🎯 **Why We Use Design Patterns**
-Incorporating design patterns leads to better, more maintainable code. They are used to:
+<br>Incorporating design patterns leads to better, more maintainable code. They are used to:
 
 - Establish a Shared Vocabulary
 Communication: Provide a common, high-level language (e.g., "We'll use a Singleton here") that makes technical discussions efficient.
