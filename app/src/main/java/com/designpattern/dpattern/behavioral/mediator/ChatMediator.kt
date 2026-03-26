@@ -1,5 +1,23 @@
 package com.designpattern.dpattern.behavioral.mediator
 
+/**
+ * 🧩 Mediator Design Pattern
+ *
+ * • Mediator (ChatMediator)
+ *   → Defines the communication contract between objects.
+ *
+ * • Concrete Mediator (ChatRoom)
+ *   → Implements the communication logic and coordinates interactions.
+ *
+ * • Colleague (User)
+ *   → Sends messages through the mediator instead of directly to other users.
+ *
+ * • Loose Coupling
+ *   → Users are independent and only interact via the mediator,
+ *     reducing dependencies between them.
+ */
+
+
 
 //ChatMediator Interface
 interface ChatMediator {
